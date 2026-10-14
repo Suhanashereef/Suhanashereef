@@ -3,34 +3,37 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:101426,100:8B2CF5&height=230&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOP%20%7C%20DESIGN%20%7C%20EXPLORE%20AI&descSize=15&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:062B35,45:10101B,100:281044&height=220&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=DEVELOP%20%E2%80%A2%20DESIGN%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&descSize=13&descAlignY=65" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suhana+Shereef+%F0%9F%91%8B;Software+%2F+Web+Developer;Building+Websites+%26+Digital+Solutions;Exploring+AI+%26+Automation;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Web+Developer;Building+Websites+%26+Digital+Solutions;Exploring+AI+%26+Automation" />
+
+⚡ `Building the Web. Exploring AI. — One commit at a time.` ⚡
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=101426" />
-<img src="https://img.shields.io/badge/EXPLORE-AI%20%26%20AUTOMATION-9B5CFF?style=for-the-badge&labelColor=101426" />
+<img src="https://img.shields.io/badge/📍_LOCATION-BAHRAIN-00E5FF?style=for-the-badge&labelColor=101010" /><img src="https://img.shields.io/badge/ROLE-WEB_DEVELOPER_@_WORLDS_LOCAL-4DA3FF?style=for-the-badge&labelColor=101010" /><img src="https://img.shields.io/badge/EDUCATION-MCA_(CGPA:_8.98)-8A2BE2?style=for-the-badge&labelColor=101010" />
 
 <br/><br/>
 
-<a href="https://github.com/suhanashereef">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/suhana-shereef-3406a0246">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/suhanashereef">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 <a href="mailto:suhanashereef2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Connect-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/97335164857">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=suhanashereef&style=for-the-badge&color=00E5FF&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=suhanashereef&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
 
 </div>
 
----
 
 ## ⚡ `whoami` — About Me
 
@@ -158,27 +161,28 @@ A job portal with registration, job search and application features, plus separa
 
 ---
 
+
 ## 💼 Experience Timeline
 
-<img src="https://img.shields.io/badge/2026–Present-Web%20Developer-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRESENT-Web%20Developer-00E5FF?style=for-the-badge" />
 
-**Worlds Local · Bahrain**
+**🌐 Web Developer — Worlds Local · Bahrain**
 
-Website development and maintenance, responsive layouts, backend functionality and business workflow improvements.
-
-<img src="https://img.shields.io/badge/Jan–Mar%202026-Office%20%26%20Accounts-9B5CFF?style=for-the-badge" />
-
-**Ruby Group · Bahrain**
-
-Office administration, records management, invoicing and accounts reporting.
-
-<img src="https://img.shields.io/badge/2025-IT%20Support%20%26%20Web%20Development-1572B6?style=for-the-badge" />
-
-**Axon Tech · Nextgen Pro Innovations · India**
-
-Technical troubleshooting, responsive website development, debugging and project support.
+- Developing and maintaining business websites.
+- Building responsive layouts using HTML, CSS, JavaScript and Tailwind CSS.
+- Working on PHP backend functionality, forms, dashboards and booking workflows.
+- Supporting website updates and improvements.
 
 ---
+
+<img src="https://img.shields.io/badge/INTERNSHIP-Web%20Development-9B5CFF?style=for-the-badge" />
+
+**💻 Web Developer Intern — Nextgen Pro Innovations · India**
+
+- Developed responsive websites using HTML, CSS and JavaScript.
+- Assisted with debugging, testing and website improvements.
+- Supported website content updates and user-friendly interface development.
+
 
 ## 📊 GitHub Command Center
 
