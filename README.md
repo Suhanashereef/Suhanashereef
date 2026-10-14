@@ -1,164 +1,242 @@
 
-<!-- 🌟 SUHANA SHEREEF | GITHUB PROFILE README -->
+<!-- ═════════ SUHANA SHEREEF • ANIMATED PROFILE ════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:10101B,100:8A2BE2&height=220&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=DEVELOP%20%20%E2%80%A2%20%20DESIGN%20%20%E2%80%A2%20%20LEARN%20%20%E2%80%A2%20%20GROW&descAlignY=65&descSize=14" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:101426,100:8B2CF5&height=230&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOP%20%7C%20DESIGN%20%7C%20EXPLORE%20AI&descSize=15&descAlignY=58" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Web+Developer;Building+Responsive+Websites;Exploring+AI+and+Automation;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suhana+Shereef+%F0%9F%91%8B;Software+%2F+Web+Developer;Building+Websites+%26+Digital+Solutions;Exploring+AI+%26+Automation;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=101426" />
+<img src="https://img.shields.io/badge/EXPLORE-AI%20%26%20AUTOMATION-9B5CFF?style=for-the-badge&labelColor=101426" />
+
+<br/><br/>
+
+<a href="https://github.com/suhanashereef">
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/suhana-shereef-3406a0246">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:suhanashereef2020@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-**Building the Web. Exploring AI.**
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/suhanashereef)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhana-shereef-3406a0246)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanashereef2020@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=suhanashereef&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=suhanashereef&style=for-the-badge&color=00E5FF&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-## ⚡ About Me
+## ⚡ `whoami` — About Me
 
-I'm a **Web Developer** based in Bahrain, passionate about building responsive websites, developing useful web applications, and exploring AI-powered solutions.
+<img align="right" width="110" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 💻 Currently working as a Web Developer at **Worlds Local**
-- 🌐 Experience developing and maintaining websites for eBin and Worlds Local Podcast
-- 🛠️ Interested in frontend development, backend development, and WordPress
-- 🤖 Exploring AI tools, prompting, and workflow automation
-- 🎓 MCA graduate with a background in computer applications
-- 🚀 Focused on building practical digital solutions and improving my technical skills
+```python
+class SuhanaShereef:
+    role = "Software / Web Developer"
+    location = "Bahrain"
+
+    skills = [
+        "Python", "PHP", "JavaScript",
+        "HTML", "CSS", "Tailwind CSS",
+        "MySQL", "WordPress"
+    ]
+
+    interests = [
+        "Web Development",
+        "AI & Automation",
+        "Application Development"
+    ]
+
+    currently_building = [
+        "Worlds Local Podcast Website",
+        "eBin Recycling Collection App"
+    ]
+
+    motto = "Learn. Build. Improve. Repeat."
+```
+
+<br clear="right"/>
+
+- 💻 Developing and maintaining business websites and web applications.
+- 🌐 Working with PHP, JavaScript, HTML, CSS and Tailwind CSS.
+- ♻️ Contributing to the eBin recycling collection app.
+- 🤖 Exploring AI-powered applications and automation.
+- 🎓 MCA graduate passionate about continuous learning.
 
 ---
 
 ## 🛠️ Tech Matrix
 
-### 💻 Languages & Web Technologies
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages
 
-### 🎨 Frontend & Website Development
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,java,c&theme=dark" />
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![UI UX](https://img.shields.io/badge/UI%2FUX_Design-8A2BE2?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00BFA6?style=for-the-badge)
+### 🌐 Web & Database
 
-### 🤖 AI & Productivity
+<img src="https://skillicons.dev/icons?i=tailwind,wordpress,mysql,postgres,git,github&theme=dark" />
 
-![AI](https://img.shields.io/badge/AI_Prompting-7B2FF7?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### 🎨 Design & Productivity
 
-### 🔧 Tools & Platforms
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoho-E42527?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=for-the-badge)
-![iPOS](https://img.shields.io/badge/iPOS-34495E?style=for-the-badge)
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Web Developer — Worlds Local, Bahrain
-`Present`
-
-- Develop and maintain websites for eBin and Worlds Local Podcast.
-- Build responsive interfaces using HTML, CSS, JavaScript, and Tailwind CSS.
-- Work with PHP for backend functionality.
-- Customize website layouts, forms, login systems, dashboards, and booking workflows.
-- Manage website content, updates, and improvements based on business requirements.
-
-### 🔹 IT Support — Axon Tech, India
-
-- Troubleshot hardware, software, and system performance issues.
-- Supported project execution and coordinated with team members.
-
-### 🔹 Web Developer Intern — Nextgen Pro Innovations, India
-`January 2025 – April 2025`
-
-- Developed responsive websites using HTML, CSS, and JavaScript.
-- Assisted with debugging, testing, website performance, and content updates.
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Receptionist
-An AI-powered virtual receptionist concept designed to handle customer enquiries, support appointment scheduling, and provide automated assistance using natural language processing and speech recognition.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** AI · Automation · Customer Support
+### 🌍 Worlds Local Podcast
+
+Developing a responsive podcast website with user registration, login, dashboards, forms and booking workflows.
+
+**Stack:** PHP · JavaScript · HTML · CSS · Tailwind CSS
+
+<a href="https://worldslocalpod.com/">
+<img src="https://img.shields.io/badge/Visit-Website-00E5FF?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ eBin Recycling App
+
+Working on an Android recycling collection application to support recycling-related workflows.
+
+**Focus:** Android · Recycling · Digital Solutions
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-9B5CFF?style=for-the-badge" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Receptionist
+
+An AI-powered receptionist designed to respond to customer enquiries and assist with appointment scheduling.
+
+**Stack:** Python · NLP · Speech Recognition · Web Technologies
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏗️ Construction Plan Designing System
-A system designed to support building layout and blueprint creation, with project timelines, resource management, and cost estimation features.
 
-**Focus:** Web Applications · Planning · Project Management
+A system for creating and managing building layouts, blueprints, project timelines and cost estimates.
+
+**Focus:** Python · AI/ML · Web Development
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🎓 College Placement Cell
-A job portal designed to help users register, search for jobs, and apply for opportunities, with dedicated modules for students, companies, and administrators.
 
-**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+A job portal with registration, job search and application features, plus separate company and administrator modules.
+
+**Stack:** PHP · MySQL · HTML · CSS · JavaScript
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience Timeline
+
+<img src="https://img.shields.io/badge/2026–Present-Web%20Developer-00E5FF?style=for-the-badge" />
+
+**Worlds Local · Bahrain**
+
+Website development and maintenance, responsive layouts, backend functionality and business workflow improvements.
+
+<img src="https://img.shields.io/badge/Jan–Mar%202026-Office%20%26%20Accounts-9B5CFF?style=for-the-badge" />
+
+**Ruby Group · Bahrain**
+
+Office administration, records management, invoicing and accounts reporting.
+
+<img src="https://img.shields.io/badge/2025-IT%20Support%20%26%20Web%20Development-1572B6?style=for-the-badge" />
+
+**Axon Tech · Nextgen Pro Innovations · India**
+
+Technical troubleshooting, responsive website development, debugging and project support.
+
+---
+
+## 📊 GitHub Command Center
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhanashereef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhanashereef&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=9B5CFF&text_color=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanashereef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanashereef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhanashereef&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=8A2BE2" width="70%" />
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanashereef&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=9B5CFF&currStreakLabel=00F5FF" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhanashereef&bg_color=0D1117&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suhanashereef&bg_color=0D1117&color=00F5FF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true&custom_title=Suhana's%20Contribution%20Graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=suhanashereef&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- NPTEL — Cloud Computing
-- NPTEL — AI in Marketing
-- Full Stack Development Using Python — Internship Certificate
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 AI tools and workflow automation
-- 🌐 Modern web development and responsive design
-- ⚙️ Backend functionality and web application workflows
-- 📈 Website performance and user experience optimization
+- ☁️ NPTEL — Cloud Computing
+- 🤖 NPTEL — AI in Marketing
+- 💻 Internship Certificate — Full Stack Development Using Python
 
 ---
 
-## 🌐 Connect Protocol
+## 🌱 Current Mission
 
-I'm interested in learning, building useful digital products, and collaborating on creative technology projects.
+```text
+[01] Build better web applications
+[02] Explore AI and workflow automation
+[03] Improve software development skills
+[04] Create meaningful digital experiences
+```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/suhanashereef)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhana-shereef-3406a0246)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=9B5CFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80" />
 
-**⚡ Build. Learn. Improve. Repeat.**
+<br/>
+
+**💜 Code with purpose. Create with passion.**
+
+<a href="https://github.com/suhanashereef?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
 
 </div>
