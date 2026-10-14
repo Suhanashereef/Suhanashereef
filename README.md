@@ -69,7 +69,7 @@ I'm a **Web Developer** based in Bahrain, passionate about building responsive w
 ## 💼 Professional Experience
 
 ### 🔹 Web Developer — Worlds Local, Bahrain
-`April 2026 – Present`
+`Present`
 
 - Develop and maintain websites for eBin and Worlds Local Podcast.
 - Build responsive interfaces using HTML, CSS, JavaScript, and Tailwind CSS.
@@ -77,20 +77,12 @@ I'm a **Web Developer** based in Bahrain, passionate about building responsive w
 - Customize website layouts, forms, login systems, dashboards, and booking workflows.
 - Manage website content, updates, and improvements based on business requirements.
 
-### 🔹 Office Administrator cum Accounts Executive — Ruby Group
-`January 2026 – March 2026`
-
-- Managed daily office operations and documentation.
-- Prepared accounts reports and maintained records.
-- Assisted with bookkeeping, invoicing, expense tracking, and reconciliations.
-
 ### 🔹 IT Support — Axon Tech, India
-`June 2025 – December 2025`
 
 - Troubleshot hardware, software, and system performance issues.
 - Supported project execution and coordinated with team members.
 
-### 🔹 Web Developer — Nextgen Pro Innovations, India
+### 🔹 Web Developer Intern — Nextgen Pro Innovations, India
 `January 2025 – April 2025`
 
 - Developed responsive websites using HTML, CSS, and JavaScript.
