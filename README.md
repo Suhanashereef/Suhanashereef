@@ -1,6 +1,15 @@
 
 <!-- ═════════ SUHANA SHEREEF • ANIMATED PROFILE ════════ -->
 
+<!-- ═════════ SUHANA SHEREEF • ANIMATED PROFILE ════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:101426,100:8B2CF5&height=230&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOP%20%7C%20DESIGN%20%7C%20EXPLORE%20AI&descSize=15&descAlignY=58" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suhana+Shereef+%F0%9F%91%8B;Software+%2F+Web+Developer;Building+Websites+%26+Digital+Solutions;Exploring+AI+%26+Automation;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+
+<br/>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:062B35,45:10101B,100:281044&height=220&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=DEVELOP%20%E2%80%A2%20DESIGN%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&descSize=13&descAlignY=65" />
