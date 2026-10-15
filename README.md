@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffFFF,45:10101B,100:281044&height=220&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=DEVELOP%20%E2%80%A2%20DESIGN%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&descSize=13&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,45:10101B,100:281044&height=220&section=header&text=SUHANA%20SHEREEF&fontSize=42&fontColor=00E5FF&fontAlignY=42&animation=fadeIn&desc=DEVELOP%20%E2%80%A2%20DESIGN%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&descSize=13&descAlignY=65" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Web+Developer;Building+Websites+%26+Digital+Solutions;Exploring+AI+%26+Automation" />
 
